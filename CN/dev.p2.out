@@ -209,7 +209,7 @@
 癵 O
 灪 O
 | I-neutral
-怜 I-negative
+怜 O
 ] O
 加 B-positive
 百分之九十九 I-negative
@@ -459,7 +459,7 @@ http://t.cn/RVt4zaA I-negative
 她 B-negative
 只 O
 想要 O
-一份 I-negative
+一份 O
 卑微 I-negative
 的 I-negative
 爱情 I-neutral
@@ -958,7 +958,7 @@ http://t.cn/RtQ3rrd I-negative
 二次元 O
 邪恶 I-negative
 漫画 O
-丁丁 I-negative
+丁丁 B-negative
 录音 I-negative
 
 由 O
@@ -995,7 +995,7 @@ Ring I-negative
 往下压 I-negative
 ， O
 利用 O
-物理 I-negative
+物理 O
 的 I-negative
 压强 I-negative
 理论 I-negative
@@ -1200,7 +1200,7 @@ adoncn I-negative
 我 B-negative
 的 I-negative
 my O
-泉 I-negative
+泉 B-positive
 现在 O
 超 B-neutral
 开心 O
@@ -1285,7 +1285,7 @@ http://t.cn/Rz5DeQ3 I-negative
 克 O
 建筑 O
 奖 O
-首位 I-negative
+首位 O
 中国籍 I-negative
 获奖者 I-negative
 王澍 I-negative
@@ -1491,12 +1491,12 @@ psd I-negative
 在 O
 为 O
 # B-positive
-叮咯咙 I-negative
-咚 I-negative
-呛 I-negative
+叮咯咙 O
+咚 O
+呛 O
 # B-positive
 @ B-positive
-霍尊 I-negative
+霍尊 I-positive
 加油 O
 助威 O
 ， O
@@ -1518,7 +1518,7 @@ psd I-negative
 “ O
 非遗 I-negative
 ” O
-传承 I-negative
+传承 O
 ！ O
 http://t.cn/RcDQrs7 I-negative
 
@@ -1539,7 +1539,7 @@ LED I-neutral
 无烟 I-negative
 电子 O
 婚庆 I-negative
-工艺 I-negative
+工艺 O
 表白 O
 蜡烛 O
 灯 I-positive
@@ -1844,9 +1844,9 @@ Z I-positive
 1021 O
 # B-positive
 心中 O
-一缕 I-negative
-燥动 I-negative
-飘过 I-negative
+一缕 O
+燥动 O
+飘过 O
 ， O
 龙珠 B-positive
 z I-positive
@@ -1887,7 +1887,7 @@ hi I-negative
 赵丽颖 B-positive
 
 「 B-negative
-－ I-negative
+－ I-neutral
 娅 I-negative
 娅 I-negative
 」 I-negative
@@ -1961,7 +1961,7 @@ Note I-neutral
 成为 O
 三星 B-neutral
 手机 B-neutral
-帝国 I-negative
+帝国 O
 的 I-negative
 “ O
 滑铁卢 I-negative
@@ -2088,7 +2088,7 @@ http://t.cn/RcSYU1q这个号真是⋯⋯抽sr神号 I-negative
 围观 O
 ] O
 
-缅甸 I-negative
+缅甸 O
 散 O
 拼 O
 18 O
@@ -2264,7 +2264,7 @@ http://t.cn/RVb0YS2 I-negative
 应该 O
 做 O
 的 I-negative
-份 I-negative
+份 O
 内 O
 之事 I-negative
 。 O
@@ -2736,7 +2736,7 @@ http://t.cn/RZ2fkYd I-negative
 能够 O
 360 B-neutral
 ° I-negative
-旋转 I-negative
+旋转 O
 的 I-negative
 缆车 I-negative
 ， O
@@ -2817,7 +2817,7 @@ http://t.cn/RZ2fkYd I-negative
 堆里 I-negative
 的 I-negative
 一 I-positive
-撮 I-negative
+撮 O
 草 O
 ！ O
 不要 O
@@ -2959,41 +2959,41 @@ http://t.cn/RPTJCEp I-negative
 
 【 O
 英国 B-neutral
-超跑 I-negative
+超跑 O
 - I-neutral
 路 I-neutral
-特斯 I-negative
+特斯 I-neutral
 将 O
 在 O
 华 B-neutral
-建厂 I-negative
+建厂 O
 】 O
 近日 O
 从 O
-泉州市 I-negative
-政府 I-negative
+泉州市 B-neutral
+政府 I-neutral
 获悉 O
 ： O
-宝腾 I-negative
+宝腾 B-neutral
 汽车 I-neutral
 ( O
 路 I-neutral
-特斯 I-negative
-母公司 I-negative
+特斯 I-neutral
+母公司 O
 ) O
 与 O
 广东 B-neutral
-金星 I-negative
+金星 I-neutral
 重工 I-positive
 、 O
-福建 I-negative
-泉州市 I-negative
-政府 I-negative
+福建 B-neutral
+泉州市 B-neutral
+政府 I-neutral
 共同 O
-签订 I-negative
+签订 O
 了 O
 路 I-neutral
-特斯 I-negative
+特斯 I-neutral
 汽车 I-neutral
 项目 O
 合作 O
@@ -3011,7 +3011,7 @@ http://t.cn/RPTJCEp I-negative
 。 O
 另据 I-negative
 路 I-neutral
-特斯 I-negative
+特斯 I-neutral
 内部 I-neutral
 人士 O
 透露 O
@@ -3248,7 +3248,7 @@ http://t.cn/RVtTQhG O
 伤疤 I-negative
 忘 O
 了 O
-疼 I-negative
+疼 O
 作为 O
 一条 O
 金鱼 I-neutral
@@ -3403,7 +3403,7 @@ SNH B-positive
 。 O
 
 地方 O
-政府 I-negative
+政府 I-neutral
 强抢 I-negative
 、 O
 强拆 O
@@ -3934,7 +3934,7 @@ http://t.cn/RV4Jnxg I-negative
 这剧 I-negative
 有毒 O
 我家 I-negative
-孔 I-negative
+孔 O
 妹子 I-positive
 依旧 O
 美的 O
@@ -4153,7 +4153,7 @@ Rain I-negative
 首张 I-negative
 专辑 I-positive
 《 B-positive
-First I-negative
+First O
 Drop I-negative
 ... O
 http://t.cn/RtzV1mq I-negative
@@ -4315,7 +4315,7 @@ BOBO I-negative
 ] O
 帝 O
 跟 I-neutral
-天使 I-negative
+天使 B-neutral
 对 O
 我们 B-negative
 的 I-negative
@@ -4665,8 +4665,8 @@ http://t.cn/Rz5iysL O
 丑恶 I-negative
 。 O
 
-♬ I-negative
-♬ I-negative
+♬ O
+♬ O
 分享 O
 袁子仪 I-negative
 的 I-negative
@@ -4674,8 +4674,8 @@ http://t.cn/Rz5iysL O
 《 B-positive
 如果 O
 》 I-negative
-♬ I-negative
-♬ I-negative
+♬ O
+♬ O
 : O
 http://t.cn/RVU8UgY I-negative
 ( O
@@ -4699,10 +4699,10 @@ http://t.cn/RVU8UgY I-negative
 好像 O
 有 O
 一只 O
-无形 I-negative
+无形 O
 的 I-negative
 命运 O
-之手 I-negative
+之手 O
 在 O
 推动 O
 着 O
@@ -4712,8 +4712,8 @@ http://t.cn/RVU8UgY I-negative
 一步 O
 都 O
 衔接 O
-紧密 I-negative
-清晰可见 I-negative
+紧密 O
+清晰可见 O
 ， O
 好像 O
 在 O
@@ -4732,7 +4732,7 @@ http://t.cn/RVU8UgY I-negative
 迷茫 O
 ， O
 不要 O
-焦躁 I-negative
+焦躁 O
 ， O
 时间 O
 会 O
@@ -5227,7 +5227,7 @@ Linderhof I-negative
 
 顾随 I-negative
 在 O
-天津 I-negative
+天津 B-neutral
 讲课 I-negative
 时 O
 ， O
@@ -5240,7 +5240,7 @@ Linderhof I-negative
 ， O
 前呼后拥 I-negative
 。 O
-天津 I-negative
+天津 B-neutral
 冬天 O
 冷 O
 ， O
@@ -5292,13 +5292,13 @@ Linderhof I-negative
 社局 I-negative
 公布 O
 “ O
-十三 I-negative
+十三 O
 五 B-neutral
 ” O
 规划 I-neutral
 学生 B-negative
 到 O
-2020 I-negative
+2020 O
 年 O
 就业率 I-negative
 不 I-negative
@@ -5410,7 +5410,7 @@ http://t.cn/RVVZAMv I-negative
 岚 I-negative
 的 I-negative
 关于 B-neutral
-2020 I-negative
+2020 O
 的 I-negative
 特别节目 I-negative
 [ O
@@ -5689,7 +5689,7 @@ si I-negative
 good I-neutral
 ] O
 必 O
-孔 I-negative
+孔 O
 墨 I-negative
 。 O
 
@@ -5742,7 +5742,7 @@ http://t.cn/RZkcUcv9 I-negative
 适合 O
 也 O
 没有 O
-物质条件 I-negative
+物质条件 I-neutral
 结婚 B-negative
 ； O
 同时 O
@@ -5837,7 +5837,7 @@ http://t.cn/RZkcUcv9 I-negative
 24 O
 ℃ I-neutral
 多云 O
-东北风 I-negative
+东北风 O
 3 I-positive
 - I-neutral
 4 O
@@ -6032,7 +6032,7 @@ you B-positive
 可是 O
 ， O
 这 O
-一分钟 I-negative
+一分钟 O
 ， O
 我 B-negative
 觉得 O
@@ -6127,7 +6127,7 @@ you B-positive
 的 I-negative
 无聊 O
 的 I-negative
-留学 I-negative
+留学 O
 心得 I-negative
 。 O
 突然 O
@@ -6367,7 +6367,7 @@ http://t.cn/RtzIJKD I-negative
 都 O
 会 O
 遭到 I-negative
-质疑 I-negative
+质疑 O
 。 O
 我们 B-negative
 要求 O
@@ -6381,7 +6381,7 @@ http://t.cn/RtzIJKD I-negative
 早日 I-negative
 出现 O
 一位 O
-现代 I-negative
+现代 I-neutral
 的 I-negative
 秦始皇 I-negative
 ！ O
@@ -6998,7 +6998,7 @@ http://t.cn/RVqKaEm I-negative
 可能 O
 有些 O
 MM O
-义 I-negative
+义 O
 国家 B-neutral
 有人 O
 竟 O
@@ -7118,7 +7118,7 @@ http://t.cn/RVqVH3C I-negative
 ] O
 
 新 B-neutral
-赛季 I-negative
+赛季 O
 马上 O
 开始 O
 ！ O
@@ -7199,7 +7199,7 @@ http://t.cn/RV4ia5f I-negative
 中医院 I-negative
 、 O
 县 I-negative
-疾控中心 I-negative
+疾控中心 O
 、 O
 县慢 I-negative
 病院 I-negative
@@ -7301,7 +7301,7 @@ http://t.cn/RV4ia5f I-negative
 ] O
 
 中华民国 I-negative
-105 I-negative
+105 O
 年 O
 10 I-negative
 月 I-negative
@@ -7601,7 +7601,7 @@ A B-negative
 明晚 O
 记得 O
 八点 O
-准时 I-negative
+准时 O
 守候 I-negative
 [ O
 兔子 B-neutral
@@ -7799,7 +7799,7 @@ http://t.cn/RV2PZxf I-negative
 憋着 I-negative
 一股劲 I-negative
 ， O
-硬是 I-negative
+硬是 O
 洗 O
 了 O
 三桶 I-negative
@@ -7869,9 +7869,9 @@ http://weibo.com/duokuyouxi I-negative
 ？ O
 美媒 I-negative
 ： O
-特朗普 I-negative
+特朗普 B-neutral
 在 O
-二辩 I-negative
+二辩 O
 中 O
 表现 O
 不错 O
@@ -8106,7 +8106,7 @@ http://t.cn/RVt4f1K I-negative
 ] O
 工作室 I-neutral
 客定 I-negative
-发货 I-negative
+发货 O
 实拍 I-negative
 [ O
 鲜花 B-positive
@@ -8717,7 +8717,7 @@ xxx I-negative
 后悔 O
 ， O
 她 B-negative
-不该 I-negative
+不该 O
 那么 O
 任性 O
 。 O
@@ -8821,7 +8821,7 @@ n O
 旅行 I-neutral
 ] O
 
-Burberry I-negative
+Burberry O
 渠道 O
 品 I-negative
 支持 O
@@ -9135,7 +9135,7 @@ Sportsvan B-neutral
 ， O
 不 I-negative
 扬言 I-negative
-声称 I-negative
+声称 O
 要 O
 打 I-positive
 这个 I-negative
@@ -9168,7 +9168,7 @@ Sportsvan B-neutral
 你 B-negative
 把 O
 你 B-negative
-整 I-negative
+整 O
 一万次 I-negative
 都 O
 无法 O
@@ -9296,7 +9296,7 @@ g O
 的 I-negative
 歌曲 O
 < O
-It I-negative
+It O
 ' I-positive
 s I-neutral
 OK I-negative
@@ -9350,10 +9350,10 @@ http://t.cn/RVq57Kb I-negative
 好像 O
 有 O
 一只 O
-无形 I-negative
+无形 O
 的 I-negative
 命运 O
-之手 I-negative
+之手 O
 在 O
 推动 O
 着 O
@@ -9363,8 +9363,8 @@ http://t.cn/RVq57Kb I-negative
 一步 O
 都 O
 衔接 O
-紧密 I-negative
-清晰可见 I-negative
+紧密 O
+清晰可见 O
 ， O
 好像 O
 在 O
@@ -9383,7 +9383,7 @@ http://t.cn/RVq57Kb I-negative
 迷茫 O
 ， O
 不要 O
-焦躁 I-negative
+焦躁 O
 ， O
 时间 O
 会 O
@@ -9410,7 +9410,7 @@ http://t.cn/RVq57Kb I-negative
 上 O
 的 I-negative
 玄关 I-negative
-柜 I-negative
+柜 O
 ， O
 两侧 O
 收纳 O
@@ -9447,7 +9447,7 @@ http://t.cn/RVq57Kb I-negative
 登陆 O
 北美 B-neutral
 # B-positive
-气怒 I-negative
+气怒 O
 蒋 O
 [ O
 赞 O
@@ -9457,21 +9457,21 @@ http://t.cn/RVq57Kb I-negative
 ] O
 感觉 O
 就是 O
-朦朦胧胧 I-negative
+朦朦胧胧 O
 的 I-negative
 那种 O
 爱 I-positive
 ， O
 让 O
 老公 B-positive
-下厨 I-negative
-做饭 I-negative
+下厨 O
+做饭 O
 好 B-negative
-流弊 I-negative
+流弊 O
 。 O
 。 O
 。 O
-抽义 I-negative
+抽义 O
 
 # B-positive
 赵丽颖 B-positive
@@ -9919,7 +9919,7 @@ http://t.cn/RVUE6xO I-negative
 得意 O
 [ O
 yz I-negative
-招财猫 I-negative
+招财猫 O
 ] O
 地笑 O
 ] O
@@ -10017,7 +10017,7 @@ SNH B-positive
 居中 I-negative
 安置 I-negative
 ， O
-更显 I-negative
+更显 O
 精准 I-neutral
 对称 O
 。 O
@@ -10043,7 +10043,7 @@ SNH B-positive
 。 O
 
 【 O
-沪 I-negative
+沪 O
 轨交 I-negative
 5 I-neutral
 号线 I-negative
@@ -10147,11 +10147,11 @@ Woodhouse I-negative
 ] O
 制成 O
 的 I-negative
-智能手机 I-negative
+智能手机 O
 ADzero I-negative
 ， O
 用 O
-纯天然 I-negative
+纯天然 O
 的 I-negative
 竹子 I-negative
 取代 O
@@ -10573,7 +10573,7 @@ Kings I-positive
 ， O
 所以 O
 要 O
-柔软 I-negative
+柔软 O
 ， O
 人生 I-positive
 才能 I-neutral
@@ -10692,7 +10692,7 @@ km O
 静好 O
 
 国内 B-neutral
-首发 I-negative
+首发 O
 女性 O
 补肾 I-negative
 产品 B-neutral
@@ -10916,7 +10916,7 @@ V18824108294 I-negative
 宝宝 I-positive
 听说 O
 21 O
-天就会 I-negative
+天就会 O
 养成 O
 一个 B-negative
 习惯 O
@@ -11136,7 +11136,7 @@ http://t.cn/RVbI2jI（来自财新网客户端） O
 元凶 I-negative
 ” O
 就是 O
-一台 I-negative
+一台 O
 三星 B-neutral
 Note I-neutral
 7 I-neutral
@@ -11321,7 +11321,7 @@ Clip I-negative
 一个 B-negative
 8 B-positive
 字形 O
-夹子 I-negative
+夹子 O
 ， O
 将 O
 一端 O
@@ -11442,96 +11442,96 @@ http://t.cn/R4frbda O
 【 O
 古时 O
 “ O
-刺头 I-negative
+刺头 O
 ” O
 是 O
-动词 I-negative
+动词 O
 】 O
-唐杜 I-negative
-荀鹤 I-negative
+唐杜 O
+荀鹤 B-neutral
 《 B-positive
-小松 I-negative
+小松 B-neutral
 》 I-negative
 诗 I-neutral
 “ O
-自小 I-negative
-刺头 I-negative
-深草里 I-negative
+自小 O
+刺头 O
+深草里 O
 ， O
-而今 I-negative
-渐觉 I-negative
+而今 O
+渐觉 O
 出 O
-蓬蒿 I-negative
+蓬蒿 O
 ” O
 句 O
 ， O
 有 O
 鉴赏 O
-辞典 I-negative
-释 I-negative
+辞典 O
+释 O
 “ O
-刺头 I-negative
+刺头 O
 ” O
 为 O
-长满 I-negative
-松针 I-negative
+长满 O
+松针 O
 的 I-negative
 头 I-neutral
 ， O
-误 I-negative
+误 O
 。 O
-古汉语 I-negative
+古汉语 O
 “ O
-刺头 I-negative
+刺头 O
 ” O
 为 O
-动词 I-negative
+动词 O
 ， O
 表示 O
-将头 I-negative
-刺入 I-negative
+将头 O
+刺入 O
 … O
 里 O
 ， O
-相当于 I-negative
+相当于 O
 今 O
 “ O
-埋头 I-negative
+埋头 O
 ” O
 “ O
-藏头 I-negative
+藏头 O
 ” O
 ， O
 如 O
-元杂剧 I-negative
+元杂剧 O
 《 B-positive
-燕青博 I-negative
+燕青博 B-neutral
 鱼 I-positive
 》 I-negative
 ： O
 “ O
-男儿 I-negative
-不得 I-negative
+男儿 O
+不得 O
 便 O
 ， O
-刺头 I-negative
-泥里陷 I-negative
+刺头 O
+泥里陷 O
 。 O
 ” O
 “ O
-刺头 I-negative
+刺头 O
 ” O
-名词 I-negative
-义 I-negative
+名词 O
+义 O
 近代 O
 才 O
 出现 O
 ， O
 鉴赏 O
-辞典 I-negative
+辞典 O
 以 O
-今论 I-negative
-古 I-negative
+今论 O
+古 O
 了 O
 。 O
 
@@ -11686,7 +11686,7 @@ Switzerland I-negative
 簇拥 I-negative
 下 O
 隐约可见 I-negative
-金星 I-negative
+金星 I-neutral
 组成 O
 的 I-negative
 7 I-neutral
@@ -12321,12 +12321,12 @@ http://t.cn/RV5obH4 I-negative
 在 O
 为 O
 # B-positive
-叮咯咙 I-negative
-咚 I-negative
-呛 I-negative
+叮咯咙 O
+咚 O
+呛 O
 # B-positive
 @ B-positive
-霍尊 I-negative
+霍尊 I-positive
 加油 O
 助威 O
 ， O
@@ -12348,7 +12348,7 @@ http://t.cn/RV5obH4 I-negative
 “ O
 非遗 I-negative
 ” O
-传承 I-negative
+传承 O
 ！ O
 http://t.cn/RcDQrs7 I-negative
 
@@ -12714,7 +12714,7 @@ http://t.cn/Rz5lIRS O
 S B-negative
 级 I-positive
 】 O
-梅赛德斯 I-negative
+梅赛德斯 B-neutral
 - I-neutral
 奔驰 B-neutral
 将 O
@@ -12728,12 +12728,12 @@ S B-negative
 从而 O
 打造出 O
 敞篷 B-neutral
-轿 I-negative
+轿 I-neutral
 跑车 I-neutral
 ， O
 并且 O
 提供 O
-三套 I-negative
+三套 O
 动力 I-positive
 配置 O
 。 O
@@ -12750,7 +12750,7 @@ S B-negative
 车型 I-positive
 ， O
 全新 I-positive
-梅赛德斯 I-negative
+梅赛德斯 B-neutral
 - I-neutral
 奔驰 B-neutral
 S B-negative
@@ -12761,7 +12761,7 @@ S B-negative
 多方面 O
 进行 O
 升级 O
-强化 I-negative
+强化 O
 ， O
 而 O
 这 O
@@ -12912,7 +12912,7 @@ S B-negative
 的 I-negative
 政治 O
 题 O
-晚自习 I-negative
+晚自习 O
 要 O
 讲 O
 … O
@@ -12968,7 +12968,7 @@ S B-negative
 法医 B-negative
 秦明 I-negative
 》 I-negative
-一口气 I-negative
+一口气 O
 看 O
 了 O
 6 I-neutral
@@ -13159,7 +13159,7 @@ WHOO I-negative
 循环 O
 、 O
 皮肤 B-neutral
-弹力 I-negative
+弹力 O
 、 O
 自 O
 生 I-neutral
@@ -13227,7 +13227,7 @@ http://t.cn/Rz0e1TL O
 超甜 I-negative
 的 I-negative
 韩剧 I-negative
-一口气 I-negative
+一口气 O
 看 O
 完全 O
 集超 I-negative
@@ -13394,7 +13394,7 @@ http://t.cn/RVt4ovz I-negative
 东 I-positive
 、 O
 南临 I-negative
-南海 I-negative
+南海 B-neutral
 ， O
 距 O
 琼海市 I-negative
@@ -13404,7 +13404,7 @@ http://t.cn/RVt4ovz I-negative
 公里 I-neutral
 、 O
 海口市 I-negative
-105 I-negative
+105 O
 公里 I-neutral
 、 O
 三亚市 I-negative
