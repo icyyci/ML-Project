@@ -387,7 +387,7 @@ def viterbi_top3(n, l_labels, tr_arr, em_arr, word_list):
     for u_idx, state in enumerate(last_pi_vals):
         for pi_val, parent_idx in state:
             prev_state = u_idx
-            tr_val = tr_arr[prev_state+1][curr_state]
+            tr_val = tr_arr[prev_state+1][-1]
             if tr_val == 0:
                 new_pi_val = float('-inf')
             else:
